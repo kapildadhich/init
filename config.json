@@ -2,8 +2,8 @@
     "HOST" : "0.0.0.0",
     "PORT" : 8000,
     "EMAIL_CONFIG": {
-        "SANDGRID_API_KEY" : "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",
-        "FROM_EMAIL": "kapil21102000@gmail.com"
+        "SANDGRID_API_KEY" : "",
+        "FROM_EMAIL": ""
     },
     "REDIS_HOST": "localhost",
     "REDIS_PORT": 6379, 
